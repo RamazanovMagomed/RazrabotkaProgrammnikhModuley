@@ -1,0 +1,75 @@
+D:\Рамазанов Магомед\sql\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Рамазанов Магомед\sql\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Рамазанов Магомед\sql\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Рамазанов Магомед\sql\WindowsFormsApp1\bin\Debug\MessagingToolkit.Barcode.dll
+D:\Рамазанов Магомед\sql\WindowsFormsApp1\bin\Debug\MessagingToolkit.Core.dll
+D:\Рамазанов Магомед\sql\WindowsFormsApp1\bin\Debug\MessagingToolkit.MMS.dll
+D:\Рамазанов Магомед\sql\WindowsFormsApp1\bin\Debug\MessagingToolkit.Pdu.dll
+D:\Рамазанов Магомед\sql\WindowsFormsApp1\bin\Debug\MessagingToolkit.QRCode.dll
+D:\Рамазанов Магомед\sql\WindowsFormsApp1\bin\Debug\MessagingToolkit.UI.dll
+D:\Рамазанов Магомед\sql\WindowsFormsApp1\bin\Debug\MessagingToolkit.Wap.dll
+D:\Рамазанов Магомед\sql\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\Рамазанов Магомед\sql\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Рамазанов Магомед\sql\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Рамазанов Магомед\sql\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Рамазанов Магомед\sql\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Рамазанов Магомед\sql\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+D:\Рамазанов Магомед\sql\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Рамазанов Магомед\sql\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\WindowsFormsApp1\bin\Debug\MessagingToolkit.Barcode.dll
+E:\WindowsFormsApp1\bin\Debug\MessagingToolkit.Core.dll
+E:\WindowsFormsApp1\bin\Debug\MessagingToolkit.MMS.dll
+E:\WindowsFormsApp1\bin\Debug\MessagingToolkit.Pdu.dll
+E:\WindowsFormsApp1\bin\Debug\MessagingToolkit.QRCode.dll
+E:\WindowsFormsApp1\bin\Debug\MessagingToolkit.UI.dll
+E:\WindowsFormsApp1\bin\Debug\MessagingToolkit.Wap.dll
+E:\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+E:\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.config
+E:\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+E:\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Alik Abdurahmanov\QRCODE\bin\Debug\WindowsFormsApp1.exe.config
+D:\Alik Abdurahmanov\QRCODE\bin\Debug\WindowsFormsApp1.exe
+D:\Alik Abdurahmanov\QRCODE\bin\Debug\WindowsFormsApp1.pdb
+D:\Alik Abdurahmanov\QRCODE\bin\Debug\MessagingToolkit.Barcode.dll
+D:\Alik Abdurahmanov\QRCODE\bin\Debug\MessagingToolkit.Core.dll
+D:\Alik Abdurahmanov\QRCODE\bin\Debug\MessagingToolkit.MMS.dll
+D:\Alik Abdurahmanov\QRCODE\bin\Debug\MessagingToolkit.Pdu.dll
+D:\Alik Abdurahmanov\QRCODE\bin\Debug\MessagingToolkit.QRCode.dll
+D:\Alik Abdurahmanov\QRCODE\bin\Debug\MessagingToolkit.UI.dll
+D:\Alik Abdurahmanov\QRCODE\bin\Debug\MessagingToolkit.Wap.dll
+D:\Alik Abdurahmanov\QRCODE\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\Alik Abdurahmanov\QRCODE\obj\Debug\WindowsFormsApp1.exe.config
+D:\Alik Abdurahmanov\QRCODE\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Alik Abdurahmanov\QRCODE\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Alik Abdurahmanov\QRCODE\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Alik Abdurahmanov\QRCODE\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Alik Abdurahmanov\QRCODE\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+D:\Alik Abdurahmanov\QRCODE\obj\Debug\WindowsFormsApp1.exe
+D:\Alik Abdurahmanov\QRCODE\obj\Debug\WindowsFormsApp1.pdb
+D:\Alik Abdurahmanov\QRCODE — копия\bin\Debug\WindowsFormsApp1.exe.config
+D:\Alik Abdurahmanov\QRCODE — копия\bin\Debug\WindowsFormsApp1.exe
+D:\Alik Abdurahmanov\QRCODE — копия\bin\Debug\WindowsFormsApp1.pdb
+D:\Alik Abdurahmanov\QRCODE — копия\bin\Debug\MessagingToolkit.Barcode.dll
+D:\Alik Abdurahmanov\QRCODE — копия\bin\Debug\MessagingToolkit.Core.dll
+D:\Alik Abdurahmanov\QRCODE — копия\bin\Debug\MessagingToolkit.MMS.dll
+D:\Alik Abdurahmanov\QRCODE — копия\bin\Debug\MessagingToolkit.Pdu.dll
+D:\Alik Abdurahmanov\QRCODE — копия\bin\Debug\MessagingToolkit.QRCode.dll
+D:\Alik Abdurahmanov\QRCODE — копия\bin\Debug\MessagingToolkit.UI.dll
+D:\Alik Abdurahmanov\QRCODE — копия\bin\Debug\MessagingToolkit.Wap.dll
+D:\Alik Abdurahmanov\QRCODE — копия\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\Alik Abdurahmanov\QRCODE — копия\obj\Debug\WindowsFormsApp1.exe.config
+D:\Alik Abdurahmanov\QRCODE — копия\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Alik Abdurahmanov\QRCODE — копия\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Alik Abdurahmanov\QRCODE — копия\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Alik Abdurahmanov\QRCODE — копия\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Alik Abdurahmanov\QRCODE — копия\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+D:\Alik Abdurahmanov\QRCODE — копия\obj\Debug\WindowsFormsApp1.exe
+D:\Alik Abdurahmanov\QRCODE — копия\obj\Debug\WindowsFormsApp1.pdb
