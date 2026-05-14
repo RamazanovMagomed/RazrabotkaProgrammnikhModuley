@@ -1,0 +1,7 @@
+D:\AbdurahmanovAlik\РазработкаПрограммныхМодулей\Lab7_OleDb\Lab7_OleDb\bin\Debug\Lab7_OleDb.exe.config
+D:\AbdurahmanovAlik\РазработкаПрограммныхМодулей\Lab7_OleDb\Lab7_OleDb\bin\Debug\Lab7_OleDb.exe
+D:\AbdurahmanovAlik\РазработкаПрограммныхМодулей\Lab7_OleDb\Lab7_OleDb\bin\Debug\Lab7_OleDb.pdb
+D:\AbdurahmanovAlik\РазработкаПрограммныхМодулей\Lab7_OleDb\Lab7_OleDb\obj\Debug\Lab7_OleDb.csproj.AssemblyReference.cache
+D:\AbdurahmanovAlik\РазработкаПрограммныхМодулей\Lab7_OleDb\Lab7_OleDb\obj\Debug\Lab7_OleDb.csproj.CoreCompileInputs.cache
+D:\AbdurahmanovAlik\РазработкаПрограммныхМодулей\Lab7_OleDb\Lab7_OleDb\obj\Debug\Lab7_OleDb.exe
+D:\AbdurahmanovAlik\РазработкаПрограммныхМодулей\Lab7_OleDb\Lab7_OleDb\obj\Debug\Lab7_OleDb.pdb
